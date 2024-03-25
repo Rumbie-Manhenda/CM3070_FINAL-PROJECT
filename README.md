@@ -5,5 +5,5 @@ of diagnosing diseases based on symptoms. Recognizing the limitations of traditi
 professionals and individuals alike with a tool that can streamline 
 the diagnostic process and improve healthcare outcomes
 
-THE SOURCE CODE CAN BE FOUND IN THE .IYPNB FILE
+THE SOURCE CODE CAN BE FOUND IN THE .IPYNB FILE
 Data can be found here : https://www.kaggle.com/code/smitisinghal/skin-disease-classification AND https://www.nature.com/articles/ncomms5212#MOESM1042
